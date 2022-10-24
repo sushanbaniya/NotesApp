@@ -1,1 +1,1 @@
-Note Taking App with dynamic color implementation.
+Note Taking App built from scratch with dynamic color implementation.
